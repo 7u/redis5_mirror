@@ -73,3 +73,43 @@
 
 [Spring+quartz实现动态化定时任务](https://my.oschina.net/u/1760791/blog/887956)
 
+
+
+[分布式事务的实现原理](https://draveness.me/distributed-transaction-principle)
+
+[分布式系统的事务处理](https://coolshell.cn/articles/10910.html)
+
+[分布式系统互斥性与幂等性问题的分析与解决](https://tech.meituan.com/2016/09/29/distributed-system-mutually-exclusive-idempotence-cerberus-gtis.html)
+
+[再有人问你分布式事务，把这篇扔给他](https://juejin.im/post/5b5a0bf9f265da0f6523913b)
+
+[聊聊分布式事务，再说说解决方案](https://www.cnblogs.com/savorboard/p/distributed-system-transaction-consistency.html)
+
+[分布式事务？No, 最终一致性](https://zhuanlan.zhihu.com/p/25933039)
+
+[分布式事务的 N 种实现]([http://myfjdthink.com/2019/04/26/%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A1%E7%9A%84-n-%E7%A7%8D%E5%AE%9E%E7%8E%B0/](http://myfjdthink.com/2019/04/26/分布式事务的-n-种实现/))
+
+[面互联网公司必备的分布式事务方案](http://www.justdojava.com/2019/04/17/java-distributed-transaction/)
+
+[如何选择分布式事务形态（TCC、SAGA、补偿、基于消息的最终一致等等](http://springcloud.cn/view/413)
+
+[浅谈分布式事务](https://ehlxr.me/2019/01/25/distributed-system-transaction/)
+
+[分布式事务-本地消息表：最终一致性](https://quguang.wang/post/transaction-local-msg-tb/)
+
+[基于 KV 的分布式事务方案](http://kaiyuan.me/2019/01/19/2pc/)
+
+[漫画-分布式事务](https://www.itcodemonkey.com/article/2657.html)
+
+[分布式事务-01-概览](https://houbb.github.io/2019/04/05/distributed-tx-01-overview-01)
+
+
+
+[蚂蚁金服分布式事务开源以及实践 | SOFA 开源一周年献礼](https://www.sofastack.tech/blog/seata-distributed-transaction-open-source/)
+
+[分布式事务中间件Seata的设计原理](http://objcoding.com/2019/07/11/seata/)
+
+[蚂蚁金服大规模分布式事务实践及四种分布式事务模式](https://linux.cn/article-11164-1.html)
+
+[蚂蚁金服大规模分布式事务实践和 开源介绍 ](https://gw.alipayobjects.com/os/basement_prod/514cacb8-a7b9-4b39-b277-5e12ecb723d3.pdf)
+
